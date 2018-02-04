@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

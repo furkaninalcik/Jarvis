@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/furkan/Desktop/React-Native/Jarvis/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Jan 30 19:09:10 EET 2018
+base.0=/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

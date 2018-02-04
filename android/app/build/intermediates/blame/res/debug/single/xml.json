@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/exploded-aar/AwesomeProject/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/exploded-aar/AwesomeProject/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/exploded-aar/AwesomeProject/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/furkan/Desktop/react_native_project_1/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/furkan/Desktop/React-Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/furkan/Desktop/React-Native/Jarvis/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    }
+]
