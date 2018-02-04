@@ -6,6 +6,7 @@ import {
 
 
 import MondaySchedule from './MondaySchedule';
+import TuesdaySchedule from './TuesdaySchedule';
 
 
 export default class Viewer extends Component {
@@ -70,8 +71,8 @@ export default class Viewer extends Component {
 
           <View style={styles.buttonContainer2}>
             <Button
-              onPress={this._onPressButton1}
-              title="Tuesday"
+              onPress={() => this.props.navigation.navigate('TuesdaySchedule')}
+              title="Tueasdasdsday"
             />
 
 
@@ -208,6 +209,7 @@ const styles = StyleSheet.create({
 const myscreens = StackNavigator({
   
   MondaySchedule: { screen: MondaySchedule },
+  TuesdaySchedule: { screen: TuesdaySchedule }
 });
 
 // skip this line if using Create React Native App
