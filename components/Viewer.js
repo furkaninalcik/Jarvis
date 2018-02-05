@@ -72,7 +72,7 @@ export default class Viewer extends Component {
           <View style={styles.buttonContainer2}>
             <Button
               onPress={() => this.props.navigation.navigate('TuesdaySchedule')}
-              title="Tueasdasdsday"
+              title="Tuesday"
             />
 
 
